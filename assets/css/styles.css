@@ -17,6 +17,7 @@ body{
     /* float: inline-end; */
     text-align: right;
 }
+
 .title{
     float: left;
     color:#EC4067;
@@ -45,4 +46,9 @@ a{
 .section_1{
     margin-top: 150px;
     margin-left: 150px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.image_1{
+height: 300px;
 }
