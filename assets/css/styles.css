@@ -5,6 +5,11 @@
   }
 body{
     font-family:nunito ;
+    color: #5E5A59;
+}
+.custome_color{
+    color:#EC4067;
+    font-weight: 20;
 }
 .header{
     width: 100%;
@@ -16,15 +21,16 @@ body{
     float: left;
     color:#EC4067;
     margin-right: 6px;
+    margin-left: 100px;
 }
 .title_2{
-    color:black;
+    color:#5E5A59;
     float: left;
 
 }
 a{
     text-decoration: none;
-    color: black;
+    color: #5E5A59;
     margin: 20px;
 }
 .enroll{
@@ -35,4 +41,8 @@ a{
     border: none;
     color: white;
     border-radius: 6px;
+}
+.section_1{
+    margin-top: 150px;
+    margin-left: 150px;
 }
