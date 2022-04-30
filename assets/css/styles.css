@@ -44,6 +44,9 @@ a{
     color: white;
     border-radius: 3px;
 }
+.bold{
+    font-weight: 600;
+}
 .enroll_2{
     background-color: #ffffff;
     padding: 10px;
