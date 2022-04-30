@@ -1,6 +1,15 @@
+
+*{
+    font-family:nunito ;
+}
 .header{
     width: 100%;
     height: 50px;
     /* float: inline-end; */
     text-align: right;
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin: 20px;
 }
