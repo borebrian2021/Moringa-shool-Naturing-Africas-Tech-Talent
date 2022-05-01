@@ -1,7 +1,7 @@
-# Delani Studio
- ## By Albert Byrone
+# Moringa School
+ ## By Brian Kimutai Koskei
 ## Screenshot
- ![image](./assets/delanii.png)
+ ![image](./assets/images/image 1.png)
  ## Table of Content
  - [Description](#description)
  - [Features](#features)
