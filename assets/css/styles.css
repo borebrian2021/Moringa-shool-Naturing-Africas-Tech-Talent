@@ -44,8 +44,23 @@ a{
     color: white;
     border-radius: 3px;
 }
+.small{
+    font-size: x-small;
+}
 .bold{
     font-weight: 600;
+
+}
+.grey_div{
+width: 50px;
+height: 25px;
+background-color: #6d6767;
+position:relative;
+opacity: 0.2;
+top: 45;
+}
+h3{
+    z-index: 2;
 }
 .enroll_2{
     background-color: #ffffff;
@@ -63,6 +78,11 @@ a{
     margin-left: 150px;
     display: grid;
     grid-template-columns: 50% 50%;
+}
+.section_2{
+    margin-top: 150px;
+    margin-left: 150px;
+    
 }
 .image_1{
 height: 300px;
