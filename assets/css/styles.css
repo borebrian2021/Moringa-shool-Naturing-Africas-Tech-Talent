@@ -82,7 +82,17 @@ h3{
 .section_2{
     margin-top: 150px;
     margin-left: 150px;
-    
+   
+}
+.outer_card{
+    height: 1500px;
+}
+.outer_card img{
+    height: 140px;
+}
+.t_mentors{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
 }
 .image_1{
 height: 300px;
