@@ -1,12 +1,12 @@
-# Delani Studio
- ## By Albert Byrone
+# Moringa School
+ ## By Brian Kimutai Koskei
 ## Screenshot
  ![image](./assets/images/week_one_project_none.png)
  ## Table of Content
  - [Description](#description)
- - [Features](#features)
- - [Behaviour Driven Development](#Behaviour-Driven-Development)
- - [Requirements](#requirements)
+ - [Courses](#Courses)
+ - [Our Projects](#Our-projects)
+ - [Portfolio](#Portfolio)
  - [Installation Process](#installation-Process)
  - [Live Link](#Live-Link)
  - [Technology  Used](#technology-Used)
@@ -15,30 +15,20 @@
  ## Description
  <p>This project is landing page website for Moringa school that shows details about the staff,courses and how to enroll to the school. It also has information about the projects done at Moiringa school, a portfolio section and an application button that enables users to send enroll to the school by online application.</p>
 
-## Features
-As a user of the application,you will be able to Navigate to sections of the page such as:
-1. Courses
-2. Projects
-3.Stories
-[Go Back to the top](#delani-studio)
-## Behaviour Driven Development|
-| Behaviour      | Input        | Output       |
-| :------------- | :----------: | -----------: |
-|  Enter your name  |   Albert Byrone |     |
-| Enter your Email Address  | albertbyrone1677@gmail.com |   |
-| Enter your message or comment   |  I would like to inquire about something     |     |
-| Press Submit|     |Pop up "Albert Byrone , we have received your message. Thank you for reaching out to us.|
-[Go Back to the top](#delani-studio)
+## Courses
+This section tells more about courses offered at moringa school.
+[Go Back to the top](#Screenshot)
+
  ###  Requirements
  * Access to  a computer or any other garget
  * Access to internet
  ### Installation Process
  ****
-* Clone to thir repo : git clone https://github.com/Albert-Byrone/delani.git
+* Clone to thir repo : git clone https://github.com/borebrian2021/Naturing-Africas-Tech-Talent.git
 * Unzip the downloaded files in a folder of choice.
 * Open the index file from the zipped file with any browser.
  ****
- [Go Back to the top](#delani-studio)
+ [Go Back to the top](#Screenshot)
 ### Live Link
 - Click this link to view the live application https://albert-byrone.github.io/delani/
 ### Technology  Used
@@ -46,11 +36,10 @@ As a user of the application,you will be able to Navigate to sections of the pag
 * CSS - which was used to style the User Interface.
 * JQUERY - which was used for DOM(Document Object Manipulation) scripts.
 [Go Back to the top](#delani-studio)
-## Known Bugs
-* Mailchimp API does not function correctly as expected.
+
 ## Licence
 MIT License
-Copyright (c) [2019] [Albert Byrone]
+Copyright (c) [2022] [Brian Kimutai]
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -66,8 +55,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-[Go Back to the top](#delani-studio)
-## Authors Info
-Slack Profile - [Albert Byrone](https://app.slack.com/client/T077KKCG6/GLRQR61NW/user_profile/UKXCHMCNP?cdn_fallback=1)
-Linked - [Albert Byrone](https://www.linkedin.com/in/albert-byrone-664811144/)
-[Go Back to the top](#delani-studio)
+[Go Back to the top](#Screenshot)
