@@ -1,40 +1,45 @@
-
 @font-face {
     font-family: nunito;
     src: url(../fonts/Nunito.ttf)
-  }
-body{
-    font-family:nunito ;
+}
+
+body {
+    font-family: nunito;
     color: #5E5A59;
 }
-.custome_color{
-    color:#EC4067;
+
+.custome_color {
+    color: #EC4067;
     font-weight: 20;
 }
-.header{
+
+.header {
     width: 100%;
     height: 50px;
     /* float: inline-end; */
     text-align: right;
 }
 
-.title{
+.title {
     float: left;
-    color:#EC4067;
+    color: #EC4067;
     margin-right: 6px;
     margin-left: 100px;
 }
-.title_2{
-    color:#5E5A59;
+
+.title_2 {
+    color: #5E5A59;
     float: left;
 
 }
-a{
+
+a {
     text-decoration: none;
     color: #5E5A59;
     margin: 20px;
 }
-.enroll{
+
+.enroll {
     background-color: #EC4067;
     padding: 10px;
     width: 120px;
@@ -44,7 +49,8 @@ a{
     color: white;
     border-radius: 3px;
 }
-.button_sm{
+
+.button_sm {
     background-color: #EC4067;
     padding: 5px;
     width: 100px;
@@ -54,25 +60,30 @@ a{
     color: white;
     border-radius: 3px;
 }
-.small{
+
+.small {
     font-size: x-small;
 }
-.bold{
+
+.bold {
     font-weight: 600;
 
 }
-.grey_div{
-width: 50px;
-height: 25px;
-background-color: #6d6767;
-position:relative;
-opacity: 0.2;
-top: 45;
+
+.grey_div {
+    width: 50px;
+    height: 25px;
+    background-color: #6d6767;
+    position: relative;
+    opacity: 0.2;
+    top: 45;
 }
-h3{
+
+h3 {
     z-index: 2;
 }
-.enroll_2{
+
+.enroll_2 {
     background-color: #ffffff;
     padding: 10px;
     width: 120px;
@@ -80,67 +91,78 @@ h3{
     border: none;
     border: 1px solid #EC4067;
     font-family: nunito;
-    color:#EC4067;
+    color: #EC4067;
     border-radius: 3px;
 }
-.section_1{
+
+.section_1 {
     margin-top: 150px;
     margin-left: 150px;
     display: grid;
     grid-template-columns: 50% 50%;
 }
-.section_3{
+
+.section_3 {
     margin-top: 250px;
     margin-left: 150px;
     display: grid;
     grid-template-columns: 50% 50%;
 }
-.section_4{
+
+.section_4 {
     margin-top: 100px;
     margin-left: 150px;
 }
-.section_2{
+
+.section_2 {
     margin-top: 15px;
     margin-left: 150px;
     margin-bottom: 20px;
-   
+
 }
-.role{
-    color:#EC4067;
+
+.role {
+    color: #EC4067;
     margin: unset;
 
 
 }
-.description{
+
+.description {
     color: #5E5A59;
     margin: unset;
 }
-.staff_names{
-    top:125px ;
+
+.staff_names {
+    top: 125px;
     margin-left: 15px;
     position: relative;
     color: rgb(255, 255, 255);
     z-index: 1000;
 }
-.outer_card{
+
+.outer_card {
     height: 150px;
     width: 150px;
-    overflow:inherit;
+    overflow: inherit;
 }
-.outer_card img{
-    width:150px;
+
+.outer_card img {
+    width: 150px;
     /* margin:15px; */
 }
-.t_mentors{
+
+.t_mentors {
     display: grid;
     grid-template-columns: 20% 20% 20% 20%;
     grid-gap: 50px;
 }
 
-.image_1{
+.image_1 {
     height: 300px;
-    }
-    .image_2{
-        height: 300px;
-        margin-top: 50px;
-        }
+}
+
+.image_2 {
+    height: 300px;
+    margin-top: 50px;
+}
