@@ -95,6 +95,10 @@ h3{
     display: grid;
     grid-template-columns: 50% 50%;
 }
+.section_4{
+    margin-top: 100px;
+    margin-left: 150px;
+}
 .section_2{
     margin-top: 15px;
     margin-left: 150px;
