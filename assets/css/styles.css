@@ -89,9 +89,16 @@ h3{
     display: grid;
     grid-template-columns: 50% 50%;
 }
+.section_3{
+    margin-top: 250px;
+    margin-left: 150px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
 .section_2{
     margin-top: 15px;
     margin-left: 150px;
+    margin-bottom: 20px;
    
 }
 .role{
@@ -125,6 +132,11 @@ h3{
     grid-template-columns: 20% 20% 20% 20%;
     grid-gap: 50px;
 }
+
 .image_1{
-height: 300px;
-}
+    height: 300px;
+    }
+    .image_2{
+        height: 300px;
+        margin-top: 50px;
+        }
