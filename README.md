@@ -1,7 +1,7 @@
 # Delani Studio
  ## By Albert Byrone
 ## Screenshot
- ![image](./assets/delanii.png)
+ ![image](./assets/images/week_one_project_none.png)
  ## Table of Content
  - [Description](#description)
  - [Features](#features)
@@ -13,12 +13,13 @@
  - [Licence](#licence)
  - [Authors Info](#Authors-Info)
  ## Description
- <p>This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studio</p>
-[Go Back to the top](#delani-studio)
+ <p>This project is landing page website for Moringa school that shows details about the staff,courses and how to enroll to the school. It also has information about the projects done at Moiringa school, a portfolio section and an application button that enables users to send enroll to the school by online application.</p>
+
 ## Features
-As a user of the application,you will be able to :
-1. See a description of what the services offered by the studio
-1. Can make inquiry through a form.
+As a user of the application,you will be able to Navigate to sections of the page such as:
+1. Courses
+2. Projects
+3.Stories
 [Go Back to the top](#delani-studio)
 ## Behaviour Driven Development|
 | Behaviour      | Input        | Output       |
