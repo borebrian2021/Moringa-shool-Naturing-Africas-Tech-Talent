@@ -30,11 +30,10 @@ This section tells more about courses offered at moringa school.
  ****
  [Go Back to the top](#Screenshot)
 ### Live Link
-- Click this link to view the live application https://albert-byrone.github.io/delani/
+- Click this link to view the live application https://borebrian2021.github.io/Naturing-Africas-Tech-Talent/#Courses
 ### Technology  Used
 * HTML - which was used to develope the structure off the pages.
 * CSS - which was used to style the User Interface.
-* JQUERY - which was used for DOM(Document Object Manipulation) scripts.
 [Go Back to the top](#delani-studio)
 
 ## Licence
