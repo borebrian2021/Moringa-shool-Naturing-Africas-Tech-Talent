@@ -44,6 +44,16 @@ a{
     color: white;
     border-radius: 3px;
 }
+.button_sm{
+    background-color: #EC4067;
+    padding: 5px;
+    width: 100px;
+    margin: 5px;
+    border: none;
+    font-family: nunito;
+    color: white;
+    border-radius: 3px;
+}
 .small{
     font-size: x-small;
 }
@@ -80,19 +90,40 @@ h3{
     grid-template-columns: 50% 50%;
 }
 .section_2{
-    margin-top: 150px;
+    margin-top: 15px;
     margin-left: 150px;
    
 }
+.role{
+    color:#EC4067;
+    margin: unset;
+
+
+}
+.description{
+    color: #5E5A59;
+    margin: unset;
+}
+.staff_names{
+    top:125px ;
+    margin-left: 15px;
+    position: relative;
+    color: rgb(255, 255, 255);
+    z-index: 1000;
+}
 .outer_card{
-    height: 1500px;
+    height: 150px;
+    width: 150px;
+    overflow:inherit;
 }
 .outer_card img{
-    height: 140px;
+    width:150px;
+    /* margin:15px; */
 }
 .t_mentors{
     display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-columns: 20% 20% 20% 20%;
+    grid-gap: 50px;
 }
 .image_1{
 height: 300px;
